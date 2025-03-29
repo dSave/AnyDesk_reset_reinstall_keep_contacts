@@ -25,7 +25,7 @@ This script allows you to:
 
 2. Place the `.exe` file into your `Downloads` folder
 
-3. Run `reset_anydesk.bat` as **Administrator**
+3. Run `AnyDesk_reset_reinstall_keep_contacts.bat` as **Administrator**
 
 4. Follow the prompts:
    - Whether to back up your settings
