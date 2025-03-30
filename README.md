@@ -2,7 +2,7 @@
 
 > A batch utility to automatically remove and reinstall AnyDesk while optionally preserving your configuration and contact list (`user.conf`).
 
-📄 Русскую версию этого файла см. `README.ru.md`
+📄 Русскую версию этого файла см. `[README.ru.md]([url](https://github.com/dSave/AnyDesk_reset_reinstall_keep_contacts/blob/main/README.ru.md))`
 
 ---
 
