@@ -5,6 +5,11 @@
 📄 Русскую версию этого файла см. [README.ru.md](https://github.com/dSave/AnyDesk_reset_reinstall_keep_contacts/blob/main/README.ru.md)
 
 ---
+---
+
+## 🌐 Language Support
+
+This script includes full bilingual output. When launched, it will prompt you to choose English or Russian.
 
 ## 🧩 Purpose
 
