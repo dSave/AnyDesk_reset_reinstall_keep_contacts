@@ -1,3 +1,10 @@
+:: -----------------------------------------------------
+:: AnyDesk Reset & Reinstall Tool
+:: Version: 1.0
+:: Date: 2025-05-02
+:: Author: dSave.ru
+:: -----------------------------------------------------
+
 @echo off
 chcp 65001 >nul
 setlocal EnableDelayedExpansion
